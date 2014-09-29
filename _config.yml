@@ -1,9 +1,9 @@
-title: Michael Monteleone
-url: http://michaelmonteleone.net
-description: 'Personal site of Michael Monteleone, software developer and designer from New Orleans'
+title: Pratik Gupte
+url: http://randomsurfer.in
+description: 'Personal site of Pratik Gupte'
 keywords:
  - Pratik Gupte
- - Pratik
+ - Pratik Vinay Gupte
  - randomsurfer
 
 author:
@@ -11,10 +11,6 @@ author:
     email: pratik.gupte@gmail.com
     github: http://github.com/randomsurfer
     linkedin: https://www.linkedin.com/in/pgupte/
-    googleplus: http://plus.google.com/100369739207842495161
-    openid:
-        server: https://www.google.com/accounts/o8/ud
-        delegate: http://www.google.com/profiles/namelessmike
     
 sections:
  - about
