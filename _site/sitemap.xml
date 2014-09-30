@@ -4,25 +4,60 @@
 	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
 			    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>http://michaelmonteleone.net/</loc>
-        <lastmod>2014-09-30T00:03:20+05:30</lastmod>
+        <loc>http://randomsurfer.in/</loc>
+        <lastmod>2014-09-30T12:40:24+05:30</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>	
     
     <url>
-        <loc>http://michaelmonteleone.net/about/</loc>
-        <lastmod>2014-09-30T00:03:20+05:30</lastmod>
+        <loc>http://randomsurfer.in/about/</loc>
+        <lastmod>2014-09-30T12:40:24+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://michaelmonteleone.net/research/</loc>
-        <lastmod>2014-09-30T00:03:20+05:30</lastmod>
+        <loc>http://randomsurfer.in/research/</loc>
+        <lastmod>2014-09-30T12:40:24+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
             
+    
+    <url>
+        <loc>http://randomsurfer.in/2010/08/03/low-blow/</loc>
+        <lastmod>2010-08-03T00:00:00+05:30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>http://randomsurfer.in/2010/07/19/supergenfail/</loc>
+        <lastmod>2010-07-19T00:00:00+05:30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>http://randomsurfer.in/2010/07/09/proxying-asp.net-ajax-events-with-jquery/</loc>
+        <lastmod>2010-07-09T00:00:00+05:30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>http://randomsurfer.in/2010/06/21/suspiciously-pleasant-xml-with-csharp-4/</loc>
+        <lastmod>2010-06-21T00:00:00+05:30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>http://randomsurfer.in/2010/06/15/hello-world/</loc>
+        <lastmod>2010-06-15T00:00:00+05:30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
         
 </urlset>
