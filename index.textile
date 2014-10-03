@@ -17,9 +17,11 @@ Previously, I was Master of Science by Research student at the Computer Science 
 You can reach me at pratik[dot]gupte[at]gmail[dot]com
 
 <h4>Education:</h4>
+
 M.S. by Research, Department of Computer Science and Engineering, IIT Madras.
 B.E. with Honours, Bhilai Institute of Technology, Durg.
 
 <h4>Research Interests:</h4>
+
 Machine Learning, Graph Mining, Deep Learning and Distributed Systems.
 </div>
