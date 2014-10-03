@@ -12,7 +12,7 @@ h1. Hello.
 
 I am presently working as a Data Scientist at Indix.com. I'm part of the <a href="http://www.indix.com/blog/building-comprehensive-database-products-open-problems-challenges-machine-learning" target="_blank">Machine Learning Group</a>. I have primarily worked in building predictive models for product categorization and for automatically extracting important product attributes from product pages.
 
-Previously, I was Master of Science by Research student at the Computer Science and Engineering department at the Indian Institute of Technology (IIT) Madras. I was advised by Dr. B. Ravindran. I worked in graph mining, specifically my research thesis was in Role Identification and Discovery in Social Networks.
+Previously, I was Master of Science by Research student at the Computer Science and Engineering department at the Indian Institute of Technology (IIT) Madras. I was advised by <a href="http://www.cse.iitm.ac.in/~ravi/" target="_blank">Dr. B. Ravindran</a>. I worked in graph mining, specifically my research thesis was in Role Identification and Discovery in Social Networks.
 
 You can reach me at pratik[dot]gupte[at]gmail[dot]com
 
