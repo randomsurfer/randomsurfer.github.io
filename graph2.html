@@ -4,8 +4,8 @@
   <head>
     <title>Force-Directed Layout</title>
     <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <script type="text/javascript" src="http://d3js.org/d3.v2.js"></script>
-    
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.4.13/d3.min.js"></script>
+
     <style type="text/css">
       circle {
         stroke-width: 1.5px;
@@ -24,7 +24,7 @@
       }
     </style>
     <script type="text/javascript">
-      $(function() {
+      $(document).ready(function() {
         var w = 960,
             h = 500,
             r = 6,
