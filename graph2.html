@@ -10,9 +10,17 @@
       circle {
         stroke-width: 1.5px;
       }
-
       line {
         stroke: #999;
+      }
+      #graph-left {
+        width: 960px;
+        height: 500px;
+      }
+      #graph-right {
+        width: 960px;
+        height: 500px;
+        float: right;
       }
     </style>
     <script type="text/javascript">
@@ -27,18 +35,20 @@
           .linkDistance(30)
           .size([w, h]);
 
-      var svg = d3.select("graph-dubba").append("svg:svg")
+      var svg = d3.select("#graph-left")
+          .append("svg:svg")
           .attr("width", w)
           .attr("height", h);
 
       d3.json("miserables.json", function(json) {
         var link = svg.selectAll("line")
             .data(json.links)
-          .enter().append("svg:line");
+            .enter()
+            .append("svg:line");
 
         var node = svg.selectAll("circle")
             .data(json.nodes)
-          .enter().append("svg:circle")
+            .enter().append("svg:circle")
             .attr("r", r - .75)
             .style("fill", function(d) { return fill(d.group); })
             .style("stroke", function(d) { return d3.rgb(fill(d.group)).darker(); })
@@ -65,7 +75,9 @@
   <body>
     <div id="dubba">
       <h1>lo tumahara title</h1>
-      <div id="graph-dubba"></div>
+      <div id="graph-left"></div>
+      <div id="graph-right"></div>
+      <div id="data">asdasdads</div>
     </div>
   </body>
 </html>
