@@ -189,6 +189,10 @@ nav#main_nav {
 
             nav#main_nav ul li a.research,
 
+            nav#main_nav ul li a.projects,
+
+            nav#main_nav ul li a.photography,
+
             nav#main_nav ul li a {
                 border-bottom: 0px;
                 width: 80px;
@@ -221,11 +225,31 @@ nav#main_nav {
                 color: #FFFFFF;					
                 }
 
+            nav#main_nav ul li a.projects:hover,
+            .projects nav#main_nav ul li a.projects,
+            .projects nav#main_nav ul li a.projects:hover,
+            .open nav#main_nav ul li a.projects:hover {
+                background-color: #000000;
+                color: #FFFFFF;					
+                }
+
+            nav#main_nav ul li a.photography:hover,
+            .photography nav#main_nav ul li a.photography,
+            .photography nav#main_nav ul li a.photography:hover,
+            .open nav#main_nav ul li a.photography:hover {
+                background-color: #000000;
+                color: #FFFFFF;					
+                }
+
 
 
             .open nav#main_nav ul li a.about,
 
             .open nav#main_nav ul li a.research,
+
+            .open nav#main_nav ul li a.projects,
+
+            .open nav#main_nav ul li a.photography,
 
             .open nav#main_nav ul li a.stub {
                 background-color: transparent;
