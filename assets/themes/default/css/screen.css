@@ -30,6 +30,10 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 	vertical-align: baseline;
 	background: transparent;
     }
+img{
+	max-height: 100%;
+	max-width: 100%;
+}
 body {
 	line-height: 1;
     }
