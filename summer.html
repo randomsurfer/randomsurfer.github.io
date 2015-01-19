@@ -21,12 +21,11 @@ text.active {
 </style>
 <script src="http://d3js.org/d3.v2.min.js?2.8.1"></script>
 
-<!--
+
 <header>
-  <aside>April 10, 2012</aside>
-  <a href="../" rel="author">Mike Bostock</a>
+  <aside>January 19, 2015</aside>
+  <a href="../" rel="author">Pratik Gupte</a>
 </header>
--->
 
 <h1>Summer School Network Roles</h1>
 
@@ -190,4 +189,26 @@ d3.json("assets/data/summer.json", function(miserables) {
 });
 
 </script>
+<br />
+<body>
+  <p>This matrix diagram visualizes the actor-actor distance matrix of summer school network from M&epsilon;EPs-CL with &epsilon; = 4. Order By M&epsilon;EPs Roles depicts the 73 nodes of the distance matrix rearranged using the hierarchical agglomerative clustering <i>complete-link</i> linkage combination distance. The best level to cut the dendrogram tree is detailed in the <a rel="Thesis" href="http://randomsurfer.in/resources/thesis_PVG.pdf">thesis</a>.
+  <p>Each colour represents a position assigned by M&epsilon;EPs. Darker shades of the color represent higher similarity. We interpret the non-singleton clusters and show how they correspond to the different roles of people that attended the event. The interpretation of the clusters starting from the <b>top-left corner</b> of the matrix diagram arranged by M&epsilon;EPs Roles is as follows:
+    <ol type="i">
+      <li>The first cluster having 4 people mostly comprising ``attendee'' <i>Visitors</i> of the summer school, with an exception of a <i>Local</i> ``attendee''. All members of this cluster have moderate degrees. The dissimilarity of the <i>Local</i> with the <i>Visitors</i> is evident in the diagram, the local corresponds to the left most element in the plot.</li>
+      <li>The second cluster having 2 people who are ``attendee'' <i>Visitors</i>. Both have a moderately low degree.</li>
+      <li>The third cluster having 3 members, two ``attendee'' <i>Visitors</i> and one ``attendee'' <i>Speaker</i> (<i>i.e.</i>, visiting speaker). All members have moderate degree of connections.</li>
+      <li>The fourth cluster having 3 members, two ``attendee'' <i>Visitors</i> and one ``attendee'' <i>Local</i>. All members have moderate degrees. The local didn't attend all sessions actively, hence the connection pattern is more similar to visitors who responded. The local is the left most element in the plot.</li>
+      <li>The fifth cluster having 4 members, all of them being ``attendee'' <i>Visitors</i>. The similarity among all the four members is visually evident in the plot.</li>
+      <li>The sixth cluster having 29 low degree nodes. This block has a mix of roles, but predominantly having <i>Visitors</i> or <i>Speakers</i> who didn't interact with other people. This block also has 2 <i>Senior Organizers</i> who were also <i>Speakers</i>.</li>
+      <li>The seventh cluster having 3 members, two of them are <i>Senior</i> ``organizers'' and one of them is ``attendee'' <i>Speaker</i>. All members have high degree of connections, consisting of people who interacted with most of the people attending the summer school.</li>
+      <li>The eighth cluster having 3 members, one <i>Senior</i> ``organizer'', one <i>Local</i> ``organizer'' and one ``attendee'' <i>Visitor</i>. The members have moderately high degrees. This implies that the senior organizer didn't interact as much with other people, as the other senior organizers did. The visitor interacted more as compared to other visitors of the summer school. The dissimilarity between the connection pattern of the senior organizer (left most in the cluster) is evident in the plot.</li>
+      <li>The ninth cluster having 8 people. It has a mix of people in role of <i>Local</i> ``organizers'' and ``attendee'' <i>Visitors</i>. The organizers were the ``quiet'' ones, <i>i.e.</i>, the people who didn't respond to the summer school survey, but interacted with most of the people. Hence they have moderate degree. The visitors in this block were the people who also have moderate degree of connections. The similarity among the locals is evident from the right most members of the cluster in the figure.</li>
+      <li>The tenth cluster having 3 people. This block has two ``attendee'' <i>Visitors</i> and one ``attendee'' <i>Speaker</i>. All of them were non-respondents.</li>
+      <li>The eleventh cluster having 4 people. These are the <i>Local</i> ``organizers'' with an exception of a <i>Senior</i> ``organizer''. They have moderately high degree of connections. The senior organizer has relatively less connections than other people in the same role.</li>
+      <li>The twelfth block having 2 people. These are the moderate degree organizers similar to the seventh cluster, one of them being <i>Senior</i> and the other one being <i>Local</i>. Dissimilarity in their role pattern is evident from the plot.
+    </ol>
+    <p>
+      In the <i>stochastic blockmodel</i> (SBM) [McDaid <i>et. al.</i> 2013] of the Summer School Network, the authors identified 7 blocks. We get a set partition similarity score of 80% between the positions of this SBM and the positions identified by our approach (M&epsilon;EPs-CL, &epsilon;=4). We get more blocks primarily because, an <i>epsilon</i> value of 4 doesn't combine blocks having moderately-low and moderate degrees. Same applies for blocks having high degrees and moderately-high degrees. The advantage with M&epsilon;EPs is that, we can tune <i>epsilon</i> to achieve granularity as required in the analysis. The qualitative evaluation along with the multi-class label metrics based evaluation (pls. refer the <a rel="Thesis" href="http://randomsurfer.in/resources/thesis_PVG.pdf">thesis</a> for more details) implies that the positions found by M&epsilon;EPs are both qualitatively and quantitatively superior than recent role discovery methods.
+</body>
+
 </html>
