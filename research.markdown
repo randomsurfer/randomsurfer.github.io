@@ -25,5 +25,5 @@ M.S. by Research Thesis, [Department of Computer Science and Engineering](http:/
 * Device Drivers Practicum
 
 ### Research Interests:
-Machine Learning, Graph Mining, Deep Learning and Distributed Systems.
+Machine Learning, Social Network Analysis, Graph Mining and Distributed Systems.
 
