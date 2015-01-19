@@ -5,7 +5,7 @@ bodyclass: projects
 ---
 
 Role Discovery in Social Networks
-=================================
+---------------------------------
 
 ### Soft Roles
 
