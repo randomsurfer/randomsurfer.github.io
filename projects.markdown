@@ -4,7 +4,8 @@ layout: index
 bodyclass: projects
 ---
 
-*Role Discovery in Social Networks*
+Role Discovery in Social Networks
+=================================
 
 ### Soft Roles
 

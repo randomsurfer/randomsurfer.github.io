@@ -4,5 +4,4 @@ layout: index
 bodyclass: photography
 ---
 
-* Pratik n Sonal 
-<img src='~/abc.jpg'>
+![alt text](https://farm4.staticflickr.com/3939/15658290562_80a1a97d82_c.jpg "~~Sunbird with a Hibiscus Hat~~")
