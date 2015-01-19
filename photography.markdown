@@ -4,7 +4,7 @@ layout: index
 bodyclass: photography
 ---
 
-~~The Chandra Valley and the Bus~~
+~~The Valley and the Bus~~
 ----------------------------------
 ![alt text](https://farm8.staticflickr.com/7568/16130398778_c1a588c1ea_c.jpg "~~Chandra Valley and the Bus~~")
 
