@@ -47,3 +47,7 @@ bodyclass: photography
 ~~Go Goo Goooo Goooo~~
 ----------------------
 ![alt text](https://farm5.staticflickr.com/4050/4323937761_e65e8bdfe4_b.jpg "~~Goooooo~~")
+
+~~ I shall hang on thee, even when thou shalt be thornest to Me! ~~
+-------------------------------------------------------------------
+![alt text](https://farm5.staticflickr.com/4120/4767231980_48cb5998ba_b.jpg "I shall hang on thee, even when thou shalt be thornest to Me!!")
