@@ -4,7 +4,7 @@ layout: about
 bodyclass: research
 ---
 ### Thesis:
-* Epsilon Equitable Partitions based Approach for Role & Positional Analysis of Social Networks
+* [Epsilon Equitable Partitions based Approach for Role & Positional Analysis of Social Networks](http://randomsurfer.in/resources/thesis_PVG.pdf) <br />
 M.S. by Research Thesis, Department of Computer Science and Engineering, IIT Madras, May 2014.
 
 ### Publications:
