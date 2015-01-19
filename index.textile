@@ -12,8 +12,7 @@ h1. Hello.
 
 I am presently working as a Data Scientist at Indix.com. I'm part of the <a href="http://www.indix.com/blog/building-comprehensive-database-products-open-problems-challenges-machine-learning" target="_blank">Machine Learning Group</a>. I'm primarily working in building predictive models for product categorization and for automatically extracting important product attributes from product pages and product titles.
 
-Previously, I was Master of Science by Research student at the Department of <a href="http://www.cse.iitm.ac.in" target="_blank">Computer Science and Engineering</a>, <a href="http://www.iitm.ac.in/" target="_blank" rel="IIT Madras">Indian Institute of Technology (IIT) Madras</a>. I was advised by <a href="http://www.cse.iitm.ac.in/~ravi/" target="_blank">Dr. B. Ravindran</a>. The topic of my research was graph mining, specifically 
-<a href="http://randomsurfer.in/research/">my research</a> thesis was on Scalable Role Identification and Discovery in Social Networks.
+Previously, I was Master of Science by Research student at the Department of <a href="http://www.cse.iitm.ac.in" target="_blank">Computer Science and Engineering</a>, <a href="http://www.iitm.ac.in/" target="_blank" rel="IIT Madras">Indian Institute of Technology (IIT) Madras</a>. I was advised by <a href="http://www.cse.iitm.ac.in/~ravi/" target="_blank">Dr. B. Ravindran</a>. The topic of my research was graph mining, specifically <a href="http://randomsurfer.in/research/">my research</a> thesis was on Scalable Role Identification and Discovery in Social Networks.
 
 <a href="http://randomsurfer.in/research/"><b>Summary</b> of my Research and Education.</a>
 <a href="http://randomsurfer.in/projects/"><b>Synopsis</b> of my Research Projects.</a>
