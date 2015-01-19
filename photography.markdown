@@ -40,6 +40,10 @@ bodyclass: photography
 -------------------------------------
 ![alt text](https://farm5.staticflickr.com/4082/4948014997_e77dd74a26_b.jpg "~~Compound Eyes of a Dragon Fly~~")
 
+~~The Golden Temple, Amritsar~~
+-------------------------------
+![alt text](https://farm5.staticflickr.com/4013/4394837286_5522664759_b.jpg "Shri Harmandir Sahibji | The Golden Temple")
+
 ~~Go Goo Goooo Goooo~~
 ----------------------
 ![alt text](https://farm5.staticflickr.com/4050/4323937761_e65e8bdfe4_b.jpg "~~Goooooo~~")
