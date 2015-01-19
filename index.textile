@@ -19,7 +19,7 @@ You can reach me at pratik[dot]gupte[at]gmail[dot]com
 <h4>Education:</h4>
 
 M.S. by Research, Department of Computer Science and Engineering, <a href="http://www.iitm.ac.in/" target="_blank" rel="IIT Madras">IIT Madras</a>.
-B.E. with Honours, Bhilai Institute of Technology, Durg.
+B.E. with <b>Honours</b>, Bhilai Institute of Technology, Durg.
 
 <h4>Research Interests:</h4>
 
