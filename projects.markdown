@@ -20,4 +20,4 @@ In social network analysis, role discovery involves partitioning the actors in a
 
 ### Scalable Role Discovery
 * [RID&epsilon;ER (Paper)](http://arxiv.org/abs/1402.3797) <span>Scalable Positional Analysis for Studying Evolution of Nodes in Networks</span>
-* [Key Contributions of RID&epsilon;ER:]() <span><b>Highly scalable</b> for large sparse graphs. The latest implementation is capable of handling graphs with half a billion edges on a single high end machine.</span> <span>Tool for studying node & link evolution characteristics in time evolving networks.</span>
+* [Key Contributions of RID&epsilon;ER:]() <span>i. <b>Highly scalable</b> for large sparse graphs. The latest implementation is capable of handling graphs with half a billion edges on a single high end machine.</span> <span>ii. Tool for studying node & link evolution characteristics in time evolving networks.</span> <span>iii. Exploratory & visual analysis tool for dynamic networks. </span>
