@@ -20,8 +20,10 @@ In social network analysis, role discovery involves partitioning the actors in a
 * [Key Contributions of M&epsilon;EPs:]() <span>i. M&epsilon;EPs takes into account the <b>complete structural view of the graph</b> for computing the roles.</span> <span>ii. M&epsilon;EPs is <b>scalable</b> to large sparse graphs.</span> <span>iii. Given the soft roles memberships of actors, M&epsilon;EPs categorizes the actors into equivalence classes or positions.</span> <span>iv. Validated the roles and positions with multi-role ground-truth network datasets.</span>
 
 ### Scalable Role Discovery
-* [RID&epsilon;ER (Paper)](http://arxiv.org/abs/1402.3797) <span>Scalable Positional Analysis for Studying Evolution of Nodes in Networks</span>
-* [Key Contributions of RID&epsilon;ER:]() <span>i. <b>Highly scalable</b> for large sparse graphs. The latest implementation is capable of handling graphs with half a billion edges on a single high end machine.</span> <span>ii. Tool for studying node & link evolution characteristics in time evolving networks.</span> <span>iii. Exploratory & visual analysis tool for dynamic networks. </span>
+* [RID&epsilon;ER (Paper)](http://randomsurfer.in/resources/gupte_SDM_MNG_14.pdf) <span>Scalable Positional Analysis for Studying Evolution of Nodes in Networks</span>
+* [Key Contributions of RID&epsilon;ER:]() <span>i. <b>Highly scalable</b> for large sparse graphs. The latest implementation (details are yet to be published) is capable of handling graphs with half a billion edges on a single high end machine.</span> <span>ii. Tool for studying node & link evolution characteristics in time evolving networks.</span> <span>iii. Exploratory & visual analysis tool for dynamic networks. </span>
+
+This work opens up the study of roles in large social networks. Please refer to [my Thesis](http://randomsurfer.in/resources/thesis_PVG.pdf) for more details.
 
 
 [1]: http://www.cs.cmu.edu/~dkoutra/papers/12-kdd-recursiverole.pdf "Henderson <i>et al.</i>, RolX: Structural Role Extraction & Mining in Large Graphs. SIGKDD 2012."
