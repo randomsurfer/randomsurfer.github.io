@@ -16,7 +16,7 @@ In social network analysis, role discovery involves partitioning the actors in a
 
 * [M&epsilon;EPs](https://www.dropbox.com/s/mw590lpgre5bxiq/meeps.pdf?dl=0) <span>Multiple &epsilon;-Equitable Partitions - Soft Role Discovery for Large Networks</span>
 * [Summer School Network Analysis using M&epsilon;EPs](http://randomsurfer.in/summer.html) <span>Qualitative analysis of M&epsilon;EPs on the Summer School Multi-Role Ground Truth Network</span>
-* [Key Contributions of M&epsilon;EPs:]() <span>M&epsilon;EPs takes into account the <i>complete structural view of the graph</i> for computing the roles.</span> <span>M&epsilon;EPs is scalable to large sparse graphs.</span> <span>Given the soft roles memberships of actors, MεEPs categorizes the actors into equivalence classes or positions.</span>
+* [Key Contributions of M&epsilon;EPs:]() <span>i. M&epsilon;EPs takes into account the <b>complete structural view of the graph</b> for computing the roles.</span> <span>ii. M&epsilon;EPs is <b>scalable</b> to large sparse graphs.</span> <span>iii. Given the soft roles memberships of actors, MεEPs categorizes the actors into equivalence classes or positions.</span>
 
 ### Scalable Role Discovery
 * [RID&epsilon;ER](http://arxiv.org/abs/1402.3797) <span>Scalable Positional Analysis for Studying Evolution of Nodes in Networks</span>
