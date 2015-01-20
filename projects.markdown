@@ -23,7 +23,7 @@ In social network analysis, role discovery involves partitioning the actors in a
 * [RID&epsilon;ER (Paper)](http://randomsurfer.in/resources/gupte_SDM_MNG_14.pdf) <span>Scalable Positional Analysis for Studying Evolution of Nodes in Networks</span>
 * [Key Contributions of RID&epsilon;ER:]() <span>i. <b>Highly scalable</b> for large sparse graphs. The latest implementation (details are yet to be published) is capable of handling graphs with half a billion edges on a single high end machine.</span> <span>ii. Tool for studying node & link evolution characteristics in time evolving networks.</span> <span>iii. Exploratory & visual analysis tool for dynamic networks. </span>
 
-This work opens up the study of roles in large social networks. Please refer to [my Thesis](http://randomsurfer.in/resources/thesis_PVG.pdf) for more details.
+This work opens up the study of roles in large social networks. Please refer to [my thesis](http://randomsurfer.in/resources/thesis_PVG.pdf) for more details.
 
 
 [1]: http://www.cs.cmu.edu/~dkoutra/papers/12-kdd-recursiverole.pdf "Henderson <i>et al.</i>, RolX: Structural Role Extraction & Mining in Large Graphs. SIGKDD 2012."
