@@ -6,7 +6,8 @@ bodyclass: projects
 
 Role Discovery in Social Networks
 ---------------------------------
-In social network analysis, role discovery involves partitioning the actors in a network into disjoint sets using a notion of equivalence which captures the structure of relationships among actors. The notion of roles differs significantly from that of communities, a popular way to organize actors in a network. A community consists of a set of nodes that have more links among themselves than to other nodes in the network. A role consists of nodes having similar structural signature, such as, broker nodes, clique members, star centers and near isolates. Nodes playing the same role are  typically spread across the network and need not even be in the same component of the network. The focus of my research work has been on the following two projects:
+In social network analysis, role discovery involves partitioning the actors in a network into disjoint sets using a notion of equivalence which captures the structure of relationships among actors. The notion of roles differs significantly from that of communities, a popular way to organize actors in a network. A community consists of a set of nodes that have more links among themselves than to other nodes in the network. A role consists of nodes having similar structural signature, such as, broker nodes, clique members, star centers and near isolates. Nodes playing the same role are typically spread across the network and need not even be in the same component of the network. Our proposed approaches discover structural roles based on <i>global graph characteristics</i> of a network, hence do not require local node characteristics to be defined or computed <i>a priori</i> as with some of the existing [1] role discovery algorithms.
+ The focus of my research work has been on the following two projects:
 
 1. M&epsilon;EPs - Soft Role Discovery using Multiple &epsilon;-Equitable Partitions.
 2. RID&epsilon;ER - Scalable Role Discovery in Networks.
@@ -21,3 +22,5 @@ In social network analysis, role discovery involves partitioning the actors in a
 ### Scalable Role Discovery
 * [RID&epsilon;ER (Paper)](http://arxiv.org/abs/1402.3797) <span>Scalable Positional Analysis for Studying Evolution of Nodes in Networks</span>
 * [Key Contributions of RID&epsilon;ER:]() <span>i. <b>Highly scalable</b> for large sparse graphs. The latest implementation is capable of handling graphs with half a billion edges on a single high end machine.</span> <span>ii. Tool for studying node & link evolution characteristics in time evolving networks.</span> <span>iii. Exploratory & visual analysis tool for dynamic networks. </span>
+
+[1]: http://www.cs.cmu.edu/~dkoutra/papers/12-kdd-recursiverole.pdf "Henderson <i>et al.</i>, RolX: Structural Role Extraction & Mining in Large Graphs. SIGKDD 2012."
