@@ -14,9 +14,10 @@ In social network analysis, role discovery involves partitioning the actors in a
 
 ### Soft Roles
 
-* [M&epsilon;EPs](https://www.dropbox.com/s/mw590lpgre5bxiq/meeps.pdf?dl=0) <span>Multiple &epsilon;-Equitable Partitions - Soft Role Discovery for Large Networks</span>
-* [Summer School Network Analysis using M&epsilon;EPs](http://randomsurfer.in/summer.html) <span>Qualitative analysis of M&epsilon;EPs on the Summer School Multi-Role Ground Truth Network</span>
-* [Key Contributions of M&epsilon;EPs:]() <span>i. M&epsilon;EPs takes into account the <b>complete structural view of the graph</b> for computing the roles.</span> <span>ii. M&epsilon;EPs is <b>scalable</b> to large sparse graphs.</span> <span>iii. Given the soft roles memberships of actors, MεEPs categorizes the actors into equivalence classes or positions.</span>
+* [M&epsilon;EPs (Paper)](https://www.dropbox.com/s/mw590lpgre5bxiq/meeps.pdf?dl=0) <span>Multiple &epsilon;-Equitable Partitions - Soft Role Discovery for Large Networks.</span>
+* [Summer School Network Analysis using M&epsilon;EPs (Demo)](http://randomsurfer.in/summer.html) <span>Qualitative analysis of M&epsilon;EPs on the Summer School Multi-Role Ground Truth Network.</span>
+* [Key Contributions of M&epsilon;EPs:]() <span>i. M&epsilon;EPs takes into account the <b>complete structural view of the graph</b> for computing the roles.</span> <span>ii. M&epsilon;EPs is <b>scalable</b> to large sparse graphs.</span> <span>iii. Given the soft roles memberships of actors, M&epsilon;EPs categorizes the actors into equivalence classes or positions.</span> <span>iv. Validated the roles and positions with multi-role ground-truth network datasets.</span>
 
 ### Scalable Role Discovery
-* [RID&epsilon;ER](http://arxiv.org/abs/1402.3797) <span>Scalable Positional Analysis for Studying Evolution of Nodes in Networks</span>
+* [RID&epsilon;ER (Paper)](http://arxiv.org/abs/1402.3797) <span>Scalable Positional Analysis for Studying Evolution of Nodes in Networks</span>
+* [Key Contributions of RID&epsilon;ER:]() <span><b>Highly scalable</b> for large sparse graphs. The latest implementation is capable of handling graphs with half a billion edges on a single high end machine.</span> <span>Tool for studying node & link evolution characteristics in time evolving networks.</span>
