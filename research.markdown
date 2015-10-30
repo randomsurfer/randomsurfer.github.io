@@ -5,7 +5,7 @@ bodyclass: research
 ---
 ### Thesis:
 * [Epsilon Equitable Partitions based Approach for Role & Positional Analysis of Social Networks](http://randomsurfer.in/resources/thesis_PVG.pdf) <br />
-M.S. by Research Thesis, Department of <a href="http://www.cse.iitm.ac.in" target="_blank">Computer Science and Engineering</a>, <a href="http://www.iitm.ac.in/" target="_blank" rel="IIT Madras">IIT Madras</a>, May 2014.
+M.S. by Research, Department of <a href="http://www.cse.iitm.ac.in" target="_blank">Computer Science and Engineering</a>, <a href="http://www.iitm.ac.in/" target="_blank" rel="IIT Madras">IIT Madras</a>, June 2015.
 
 ### Publications:
 * Gupte, P. V. and Ravindran, B. (2014) "Scalable Positional Analysis for Studying Evolution of Nodes in Networks". In the Workshop on Mining Networks and Graphs: A Big Data Analytic Challenge, at the SIAM Conference on Data Mining (SDM 14). [<a href="http://randomsurfer.in/resources/gupte_SDM_MNG_14.pdf" target="_blank">Paper</a>][<a href="../resources/MNG_PPT_Gupte_14.pdf">Slides</a>][<a href="../resources/mng_sdm_gupte_14.txt">BibTex</a>]
