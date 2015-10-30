@@ -27,6 +27,7 @@ You can reach me at pratik[dot]gupte[at]gmail[dot]com
    <li>19/03/2015: I was featured on <a href="http://www.indix.com/employee-spotlight-pratik-gupte-data-scientist/" target="_blank">Indix Employee Spotlight.</a></li>
 </ul>
 
+
 <h4>Education:</h4>
 
 M.S. by Research, Department of <a href="http://www.cse.iitm.ac.in" target="_blank">Computer Science and Engineering</a>, <a href="http://www.iitm.ac.in/" target="_blank" rel="IIT Madras">IIT Madras</a>.
