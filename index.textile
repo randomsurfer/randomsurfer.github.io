@@ -34,6 +34,6 @@ B.E. with <b>Honours</b>, Bhilai Institute of Technology, Durg.
 
 <h4>Research Interests:</h4>
 
-Machine Learning, Social Network Analysis, Graph Mining and Distributed Systems.
+Machine Learning, Mining Large Datasets and Graph Mining.
 
 </div>
