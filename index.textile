@@ -27,9 +27,9 @@ You can reach me at pratik[dot]gupte[at]gmail[dot]com
 
 <h4>News:</h4>
 <ul>
-   <li>Our paper "Role Discovery in Graphs using Global Features: Algorithms, Applications and a Novel Evaluation Strategy" (with B. Ravindran and S. Parthasarathy) has been accepted at <a href="http://icde2017.sdsc.edu" target="_blank">ICDE 2017.</a> (10/01/2017)</li> <br />
-   <li>I have joined <a href="http://www.netradyne.com" target="_blank">Netradyne</a>, Bangalore as a Senior Research Engineer. (18/04/2016)</li> <br />   
-   <li>I was featured on <a href="http://www.indix.com/employee-spotlight-pratik-gupte-data-scientist/" target="_blank">Indix Employee Spotlight.</a> (19/03/2015)</li>
+   <li>10/01/2017: Our paper "Role Discovery in Graphs using Global Features: Algorithms, Applications and a Novel Evaluation Strategy" (with B. Ravindran and S. Parthasarathy) has been accepted at <a href="http://icde2017.sdsc.edu" target="_blank">ICDE 2017.</a></li> <br />
+   <li>18/04/2016: I have joined <a href="http://www.netradyne.com" target="_blank">Netradyne</a>, Bangalore as a Senior Research Engineer.</li> <br />   
+   <li>19/03/2015: I was featured on <a href="http://www.indix.com/employee-spotlight-pratik-gupte-data-scientist/" target="_blank">Indix Employee Spotlight.</a></li>
 </ul>
 
 <br />
