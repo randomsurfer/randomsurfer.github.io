@@ -27,6 +27,8 @@ You can reach me at pratik[dot]gupte[at]gmail[dot]com
 
 <h4>News:</h4>
 <ul>
+   <li>18/05/2017: Our paper "Role Discovery in Graphs using Global Features: Algorithms, Applications and a Novel Evaluation Strategy" is now available on <a href="http://ieeexplore.ieee.org/document/7930024/" target="_blank">IEEE Xplore.</a></li> <br />
+   <li>20/04/2017: I presented our paper "Role Discovery in Graphs using Global Features: Algorithms, Applications and a Novel Evaluation Strategy" at <a href="http://icde2017.sdsc.edu" target="_blank">ICDE 2017</a> in San Diego, USA [<a href="../resources/gupte-roles-icde2017.pdf">Slides</a>].</li> <br />
    <li>10/01/2017: Our paper "Role Discovery in Graphs using Global Features: Algorithms, Applications and a Novel Evaluation Strategy" (with B. Ravindran and S. Parthasarathy) has been accepted at <a href="http://icde2017.sdsc.edu" target="_blank">ICDE 2017.</a></li> <br />
    <li>18/04/2016: I have joined <a href="http://www.netradyne.com" target="_blank">Netradyne</a>, Bangalore as a Senior Research Engineer.</li> <br />   
    <li>19/03/2015: I was featured on <a href="http://www.indix.com/employee-spotlight-pratik-gupte-data-scientist/" target="_blank">Indix Employee Spotlight.</a></li>
