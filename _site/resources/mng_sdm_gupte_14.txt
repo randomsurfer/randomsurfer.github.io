@@ -1,6 +1,0 @@
-@article{gupte2014scalable,
-  title={Scalable Positional Analysis for Studying Evolution of Nodes in Networks},
-  author={Gupte, Pratik Vinay and Ravindran, Balaraman},
-  journal={Mining Networks and Graphs: A Big Data Analytic Challenge. SIAM Data Mining Workshop},
-  year={2014}
-}
