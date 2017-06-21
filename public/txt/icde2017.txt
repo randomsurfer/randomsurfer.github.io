@@ -1,0 +1,9 @@
+@inproceedings{gupte2017roles,
+  title={Role Discovery in Graphs Using Global Features: Algorithms, Applications and a Novel Evaluation Strategy},
+  author={Gupte, Pratik Vinay and Ravindran, Balaraman and Parthasarathy, Srinivasan},
+  booktitle={Data Engineering (ICDE), 2017 IEEE 33rd International Conference on},
+  pages={771--782},
+  year={2017},
+  organization={IEEE}
+}
+
