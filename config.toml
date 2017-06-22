@@ -95,7 +95,7 @@ defaultContentLanguageInSubdir = false
     'Conference Proceedings',  # 1
     'Journal',  # 2
     'Work in Progress',  # 3
-    'Technical Report',  # 4
+    'Thesis',  # 4
     'Book',  # 5
     'Book chapter',  # 6
     'Workshop Paper' # 7
