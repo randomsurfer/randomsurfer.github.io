@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/randomsurfer/randomsurfer.github.io.git
