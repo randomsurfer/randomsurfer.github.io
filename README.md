@@ -1,0 +1,2 @@
+# randomsurfer.github.io
+favicon
